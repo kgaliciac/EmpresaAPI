@@ -1,0 +1,8 @@
+C:\Users\kathy\source\repos\EmpresaAPI\obj\Debug\net8.0\EmpresaAPI.csproj.AssemblyReference.cache
+C:\Users\kathy\source\repos\EmpresaAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kathy\source\repos\EmpresaAPI\obj\Debug\net8.0\EmpresaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathy\source\repos\EmpresaAPI\obj\Debug\net8.0\EmpresaAPI.AssemblyInfoInputs.cache
+C:\Users\kathy\source\repos\EmpresaAPI\obj\Debug\net8.0\EmpresaAPI.AssemblyInfo.cs
+C:\Users\kathy\source\repos\EmpresaAPI\obj\Debug\net8.0\EmpresaAPI.csproj.CoreCompileInputs.cache
+C:\Users\kathy\source\repos\EmpresaAPI\obj\Debug\net8.0\EmpresaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kathy\source\repos\EmpresaAPI\obj\Debug\net8.0\EmpresaAPI.sourcelink.json
